@@ -99,8 +99,8 @@ These results are preserved as they appear in the existing notebooks; no additio
 
 These are representative outputs extracted from the existing notebook results.
 
-![GAN-generated MNIST samples](assets/01_Adversarial_Image_Generation_GAN_cGAN.ipynb_0.png)
+![GAN-generated MNIST samples](01_Adversarial_Image_Generation_GAN_cGAN.ipynb_0.png)
 
-![WGAN-generated MNIST samples](assets/02_Wasserstein_GAN_Training_Stability.ipynb_0.png)
+![WGAN-generated MNIST samples](02_Wasserstein_GAN_Training_Stability.ipynb_0.png)
 
-![Baseline DDPM-generated samples](assets/03_DDPM_Baseline_Diffusion_Model.ipynb_0.png)
+![Baseline DDPM-generated samples](03_DDPM_Baseline_Diffusion_Model.ipynb_0.png)
